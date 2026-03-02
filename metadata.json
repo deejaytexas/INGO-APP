@@ -1,7 +1,0 @@
-{
-  "name": "Kirya Delivery",
-  "description": "A modern food and package delivery app for Mbale town, featuring real-time location tracking and address selection.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
